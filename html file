@@ -6,9 +6,14 @@
 <title>A Random Page</title>
 </head>
 
-<body>
-
-
+<body>  
+<header class="scroll-hide nav-down">
+  <div class="logo">
+    <a class="animation-link" href="mock-website/logo.png">
+    <img src="mock-website/logo.png" alt="logo">
+    
+    </a>
+  </div>
 
 
 </body>
