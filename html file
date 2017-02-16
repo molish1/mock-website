@@ -10,7 +10,7 @@
 <header class="scroll-hide nav-down">
   <div class="logo">
     <a class="animation-link" href="mock-website/logo.png">
-    <img src="mock-website/logo.png" alt="logo">
+    <img src="https://github.com/molish1/mock-website/blob/master/logo.png?raw=true" alt="logo">
     
     </a>
   </div>
