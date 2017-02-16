@@ -7,13 +7,13 @@
 </head>
 
 <body>  
-
+<div class="container">
   <div class="logo">
   
-    <img src="https://github.com/molish1/mock-website/blob/master/logo.png?raw=true" alt="logo">
+    <img src="https://github.com/molish1/mock-website/blob/master/logo3.png?raw=true" alt="logo">
 
   </div>
 
-
+</div>
 </body>
 </html>
